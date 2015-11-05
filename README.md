@@ -1,7 +1,7 @@
 ### Installation
 
 ```
-$ git clone https://github.com/fitztrev/trevdev.git ~/trevdev
+$ git clone https://github.com/zhongpei/trevdev.git ~/trevdev
 $ cd ~/trevdev
 $ make install
 ```
